@@ -1,4 +1,4 @@
-add input docx to mnt/input and run the following
+add input documents (doc, docx, ppt, pptx, rtf) to mnt/input and run the following
 
 ```
 docker build -t convert-to-pdf .
